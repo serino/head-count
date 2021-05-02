@@ -1,0 +1,1 @@
+This is an app that shows the user a starting number, and then shows the user a sequence of 6 additional numbers that the user must either add or subtract to the starting number. After the sequence of numbers, the user is asked to put in the current value of the number.
